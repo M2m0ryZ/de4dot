@@ -33,6 +33,7 @@ namespace de4dot.cui {
 	}
 
 	class Program {
+		// Test
 		static IList<IDeobfuscatorInfo> deobfuscatorInfos = CreateDeobfuscatorInfos();
 
 		static IList<IDeobfuscatorInfo> LoadPlugin(string assembly) {
